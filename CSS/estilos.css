@@ -32,3 +32,11 @@ body {
 #post {
     padding: 1rem;
 }
+#footer {
+    margin: 0;
+    padding: 0.8rem;
+    text-align: center;
+    font-size: 1.2rem;
+    color:rgb(243, 204, 152);
+    background-color: chocolate;
+}
