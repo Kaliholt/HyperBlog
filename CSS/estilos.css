@@ -13,18 +13,21 @@ body {
     border: 1px solid #DDD;
     font-weight: bold;
 }
-#cabecera{
-    background-color: #33A;
-    font-size: 3rem;
-    box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.5);
-    color: white;
-    padding: 8px;
+#header{
     margin: 0;
+    padding: 8px;
+    text-align: center;
+    line-height: 2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.5);
+    background-color: #337;
+    color: white;
 }
-#cabecera #tagline {
-    font-size: 2.3rem;
-    font-weight: normal;
+#header #tagline {
     padding: 0 0 0 0.8rem;
+    font-size: 1.5rem;
+    font-weight: normal;
 }
 #container h1{
     font-size: 20px;
