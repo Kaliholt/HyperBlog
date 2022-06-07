@@ -24,6 +24,10 @@ body {
     background-color: #337;
     color: white;
 }
+#header img {
+    width: 70px;
+    align-items: center;
+}
 #header #tagline {
     padding: 0 0 0 0.8rem;
     font-size: 1.5rem;
