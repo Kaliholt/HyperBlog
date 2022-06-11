@@ -46,4 +46,5 @@ body {
     font-size: 1.2rem;
     color:rgb(243, 204, 152);
     background-color: #337;
+    box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.5);
 }
